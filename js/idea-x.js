@@ -1,4 +1,4 @@
-var api_host = "https://lair.idea-x.org:14874"
+var api_host = "http://lair.idea-x.org:14874"
 
 function buildRequest(parray) {
     request = api_host
